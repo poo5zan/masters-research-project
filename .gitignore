@@ -2,3 +2,9 @@ data/
 .DS_Store
 darts_logs/
 results/
+*.npy
+*.pth
+*.zip
+*.f
+*.csv
+
