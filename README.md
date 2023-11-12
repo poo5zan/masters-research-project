@@ -24,9 +24,6 @@ https://github.com/poo5zan/Informer/blob/main/run.ipynb
 
 
 Autoformer:
-https://github.com/poo5zan/Autoformer/blob/main/run2.py
-
-MPSdoes not support fft operation and cpu operation is too slow.So a google colab link:
-Google colab for Autoformer: https://colab.research.google.com/drive/1BpiveexNG8XXskgg6LLYM67f751NJsxT?usp=sharing
+https://github.com/poo5zan/Autoformer/blob/main/Autoformer_Research_project_Pujan.ipynb
 
 
