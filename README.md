@@ -20,7 +20,7 @@ https://github.com/poo5zan/DeepTrader/blob/pujan_changes/src/run2.ipynb
 
 
 Informer:
-https://github.com/poo5zan/Informer/blob/main/volatility.py
+https://github.com/poo5zan/Informer/blob/main/run.ipynb
 
 
 Autoformer:
